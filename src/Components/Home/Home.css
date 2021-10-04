@@ -1,0 +1,27 @@
+.main hr{
+    width: 75%;
+    margin-left: 12%;
+    background-color: rgb(102, 100, 100);
+}
+.head{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 100px;
+    /* padding-bottom: 80px; */
+}
+.head img{
+    width: 50%;
+}
+
+.title{
+    margin-left: 50px;
+}
+.t1{
+    color: orange;
+}
+.t2{
+    /* padding-left: 40px; */
+    margin-left: 120px;
+    color: lightgray;
+}

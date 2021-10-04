@@ -3,42 +3,42 @@
         "id": "1",
         "ctitle": "Design",
         "ctime": "4 Manth",
-        "cprice": "BDT-6000",
+        "cprice": "BDT 6000",
         "cimg": "https://i.ibb.co/hc4XTCJ/c5.jpg"
     },
     {
         "id": "2",
         "ctitle": "Web Development",
         "ctime": "6 Manth",
-        "cprice": "BDT-8000",
+        "cprice": "BDT 8000",
         "cimg": "https://i.ibb.co/k01G0kR/c1.jpg"
     },
     {
         "id": "3",
         "ctitle": "Science",
         "ctime": "5 Manth",
-        "cprice": "BDT-12000",
+        "cprice": "BDT 12000",
         "cimg": "https://i.ibb.co/94FL1Qt/c4.jpg"
     },
     {
         "id": "4",
         "ctitle": "Marketing",
         "ctime": "3 Manth",
-        "cprice": "BDT-8000",
+        "cprice": "BDT 8000",
         "cimg": "https://i.ibb.co/Tg0pTPB/c3.jpg"
     },
     {
         "id": "5",
         "ctitle": "Finance",
         "ctime": "6 Manth",
-        "cprice": "BDT-5500",
+        "cprice": "BDT 5500",
         "cimg": "https://i.ibb.co/yVt7ntc/c7.jpg"
     },
     {
         "id": "6",
         "ctitle": "Photography",
         "ctime": "3 Manth",
-        "cprice": "BDT-8000",
+        "cprice": "BDT 8000",
         "cimg": "https://i.ibb.co/VMm8147/c2.jpg"
     }
 ]
